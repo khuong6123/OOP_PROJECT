@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Test Task",
+    "description": "Description",
+    "dueDate": "2025-12-27 15:04:15",
+    "createdAt": "2025-12-26 15:04:15",
+    "updatedAt": "2025-12-26 15:04:15",
+    "completedAt": "1677-09-21 00:12:44",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "categoryId": 1,
+    "recurrence": {
+      "type": "DAILY",
+      "interval": 1,
+      "daysOfWeek": [],
+      "occurrenceCount": 0,
+      "endDate": "2262-04-11 23:47:16"
+    },
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "id": 2,
+    "title": "Test Task",
+    "description": "Description",
+    "dueDate": "2025-12-27 15:04:15",
+    "createdAt": "2025-12-26 15:04:15",
+    "updatedAt": "2025-12-26 15:04:15",
+    "completedAt": "1677-09-21 00:12:44",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "categoryId": 1,
+    "recurrence": {
+      "type": "DAILY",
+      "interval": 1,
+      "daysOfWeek": [],
+      "occurrenceCount": 0,
+      "endDate": "2262-04-11 23:47:16"
+    },
+    "tags": ["tag1", "tag2"]
+  }
+]
